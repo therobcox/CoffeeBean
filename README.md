@@ -68,3 +68,12 @@ To set new wallpaper, use Settings -> Background or right-click desktop "Change 
   
  - sudo rm -r /usr/share/gnome-background-properties/inkspot-backgrounds.xml
 
+# Extras
+
+Please find included - Wallpapers folder
+
+CoffeeBreak Icon Theme here: <a href="https://github.com/therobcox/CoffeeBreak-Icons">https://github.com/therobcox/CoffeeBreak-Icons</a>
+
+Looks great with CoffeeBreak Dynamic Background here: <a href="https://github.com/therobcox/CoffeeBreak">https://github.com/therobcox/CoffeeBreak</a>
+
+
