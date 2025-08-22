@@ -70,10 +70,10 @@ To set new wallpaper, use Settings -> Background or right-click desktop "Change 
 
 # Extras
 
-Please find included - Wallpapers folder
+Looks great with CoffeeBreak Theme:
+
+CoffeeBreak Theme here: <a href="https://github.com/therobcox/CoffeeBreak">https://github.com/therobcox/CoffeeBreak</a>
 
 CoffeeBreak Icon Theme here: <a href="https://github.com/therobcox/CoffeeBreak-Icons">https://github.com/therobcox/CoffeeBreak-Icons</a>
-
-Looks great with CoffeeBreak Dynamic Background here: <a href="https://github.com/therobcox/CoffeeBreak">https://github.com/therobcox/CoffeeBreak</a>
 
 
